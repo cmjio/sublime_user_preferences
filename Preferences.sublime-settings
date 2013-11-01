@@ -1,0 +1,40 @@
+{
+  "auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
+  "bold_folder_labels": false,
+  "caret_style": "smooth",
+  "detect_slow_plugins": false,
+  "draw_minimap_border": false,
+  "draw_white_space": "none",
+  "ensure_newline_at_eof_on_save": true,
+  "fallback_encoding": "Western (Windows 1252)",
+  "find_selected_text": true,
+  "flatland_sidebar_tree_small": true,
+  "flatland_square_tabs": false,
+  "font_options":
+  [
+    "subpixel_antialias"
+  ],
+  "font_size": 9.0,
+  "gutter": true,
+  "highlight_line": false,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "match_brackets_angle": true,
+  "mouse_wheel_switches_tabs": false,
+  "rulers":
+  [
+    120
+  ],
+  "save_on_focus_lost": true,
+  "scroll_past_end": true,
+  "tab_completion": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "use_tab_stops": true,
+  "word_wrap": true,
+  "wrap_width": 0
+}
